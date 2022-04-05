@@ -1,0 +1,20 @@
+"address","results.response.bbl","results.response.buildingIdentificationNumber","results.response.latitude","results.response.longitude","results.response.firstBoroughName","results.response.communityDistrict","results.response.nta","results.response.ntaName","results.response.censusBlock2010"
+"133-11 41st Road","4050417501","4114252",40.7567187977769,-73.8308648711484,"QUEENS","407","QN22","Flushing","1000"
+"160 W 60th St, New York, NY 10023","1011310001","1028826",40.7705411152479,-73.985956041623,"MANHATTAN","107","MN14","Lincoln Square","1001"
+"178-21 147th avenue","4133540006","4543416",40.6602359235683,-73.7671545933532,"QUEENS","413","QN03","Springfield Gardens South-Brookville","3007"
+"2108 Clinton Ave, Bronx, NY 10457","2030960015","2115526",40.8479047926422,-73.8875320914654,"BRONX","206","BX17","East Tremont","1003"
+"211 W 115th St, New York, NY 10026","1018310022","1055234",40.8028409314854,-73.953726359357,"MANHATTAN","110","MN11","Central Harlem South","3000"
+"2180 Prospect Ave, Bronx, NY 10457","2031100157","2012986",40.8486464614938,-73.8853512853439,"BRONX","206","BX17","East Tremont","1001"
+"225 79th St, Brooklyn, NY 11209","3059680073","3150275",40.6290040041038,-74.0307915554965,"BROOKLYN","310","BK31","Bay Ridge","2001"
+"2314 Plymouth Pl, East Meadow, NY 11554",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2660 MILES AVENUE","2055987501","2099292",40.8158954609689,-73.8254182012741,"BRONX","210","BX52","Schuylerville-Throgs Neck-Edgewater Park","1001"
+"2885 Valentine Ave, Bronx, NY 10458","2033050055","2017184",40.870165558024,-73.8888033182681,"BRONX","207","BX05","Bedford Park-Fordham North","3001"
+"30-32 81st street","4011290023","4025086",40.7603668853711,-73.887199810135,"QUEENS","403","QN28","Jackson Heights","2000"
+"331 Decker ave","5010530210","5024944",40.6256616438494,-74.1403545343164,"STATEN IS","501","SI28","Port Richmond","2006"
+"4208 50th Street",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50-65 41st Street, Queens","4001810019","4002206",40.7364990148353,-73.9247714932324,"QUEENS","402","QN31","Hunters Point-Sunnyside-West Maspeth","2001"
+"50 Farm Ln, Levittown, NY 11756",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506 GREENE AVE, Brooklyn","3017980014","3050410",40.6885342560128,-73.9499258100845,"BROOKLYN","303","BK75","Bedford","2000"
+"632 Klondike Ave, Staten Island, NY 10314","5023950009","5039298",40.588788700007,-74.1568067076455,"STATEN IS","502","SI24","Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill","2002"
+"64-22 84th St, Queens, NY 11379","4030120016","4070040",40.7207602380018,-73.8691784443027,"QUEENS","405","QN21","Middle Village","1000"
+"930 BLOKE AVE",NA,NA,NA,NA,NA,NA,NA,NA,NA
